@@ -1,0 +1,11 @@
+.Amount {
+    min-height: 150px;
+    position: relative;
+    bottom: 60px;
+    padding: 30px 60px;
+    box-shadow: 6px 5px 15px grey;
+}
+
+.RightCol {
+    /*padding-left: 30px;*/
+}

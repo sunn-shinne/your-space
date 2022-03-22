@@ -1,0 +1,8 @@
+.App {
+  width: 100vw;
+  background-color: #DECFC5;
+}
+
+.toTop {
+  z-index: 10000;
+}

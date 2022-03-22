@@ -1,0 +1,9 @@
+.About {
+    width: 100vw;
+    height: calc(100vh - 88px);
+}
+
+.Map {
+    /* width: 100%!important; */
+    height: 500px!important;
+}

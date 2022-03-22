@@ -1,0 +1,16 @@
+.BookingForm {
+    min-height: calc(100vw - 88px);
+}
+
+.title {
+    position: relative;
+    z-index: 1001;
+    padding-left: 75px!important;
+    top: 25px;
+}
+
+.EndMessage {
+    padding: 20px 20px;
+    padding-bottom: 5px;
+    box-shadow: 6px 5px 15px grey;
+}

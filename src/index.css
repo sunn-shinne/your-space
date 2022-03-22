@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: local('Montserrat'), url(./fonts/Montserrat/Montserrat-Light.ttf) format('ttf');
+}
+
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    overflow-x: hidden;
+    overflow-y: scroll;
+    
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.z-index-top {
+    z-index: 10000;
+}
+
+.Block-bg {
+    background-color: rgba(255, 255, 255, 0.85)!important;
+}
